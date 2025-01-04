@@ -147,5 +147,6 @@ kubectl delete namespace monitoring
 
 ![image](https://github.com/user-attachments/assets/585adf24-7f05-4f08-8c06-1617f87c0deb)
 ![image](https://github.com/user-attachments/assets/e45f42f5-cc2f-47d7-bf33-4373dbe169e5)
+![image](https://github.com/user-attachments/assets/df6ee8d6-dd36-47bc-b986-d6499a801569)
 
 
